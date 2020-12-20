@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myfavs-client-zuul/myfavs-client-zuul.iml" filepath="$PROJECT_DIR$/myfavs-client-zuul/myfavs-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfavs-domain/myfavs-domain.iml" filepath="$PROJECT_DIR$/myfavs-domain/myfavs-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfavs-microservice.iml" filepath="$PROJECT_DIR$/myfavs-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfavs-restapi/myfavs-restapi.iml" filepath="$PROJECT_DIR$/myfavs-restapi/myfavs-restapi.iml" />
+    </modules>
+  </component>
+</project>
